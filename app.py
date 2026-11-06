@@ -154,14 +154,14 @@ def classify():
             get_db().rollback()
             app.logger.exception("Database integrity error")
             flash("Database session mismatch. Please login again.", "danger")
-    return redirect(url_for("login"))
+            return redirect(url_for("login"))
 
-except Exception as e:
-    get_db().rollback()
-    app.logger.exception("Classification failed")
-    flash(f"Classification error: {str(e)}", "danger")
-    return redirect(url_for("classify"))
-    return render_template("index.html", show_query=True)
+        except Exception as e:
+            get_db().rollback()
+            app.logger.exception("Classification failed")
+            flash(f"Classification error: {str(e)}", "danger")
+            return redirect(url_for("classify"))
+            return render_template("index.html", show_query=True)
 
 @app.route("/history")
 @login_required
