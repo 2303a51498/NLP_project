@@ -1,0 +1,501 @@
+ID,Original Query,Language ,Intent,Food Item,Nutrient,Meal,Health goal,Diet Type,Area
+NUT0001,ragi daily thinte weight thagguthunda,Telugu- English,Weight Loss,Ragi,"Fiber, Calcium",Breakfast,Weight Loss,Vegetarian,Urban
+NUT0002,sugar unna vallu ragi roju teeskocha,Telugu- English,Diabetes management,Ragi,"Fiber, Calcium",Breakfast,Blood sugar control,Vegetarian,Urban
+NUT0003,ragi breakfast lo thinte energy full day untunda,Telugu- English,Meal Planning,Ragi,"Fiber, Calcium",Breakfast,General health,Vegetarian,Rural
+NUT0004,ragi dinner lo thinte digestion ki easy ga untunda,Telugu- English,Food nutrition,Ragi,"Fiber, Calcium",Breakfast,Digestion,Vegetarian,Urban
+NUT0005,weight loss kosam rice badalu ragi thinacha,Telugu- English,Weight Loss,Ragi,"Fiber, Calcium",Breakfast,Weight Loss,Vegetarian,Urban
+NUT0006,ragi lo carbs entha untayi,Telugu- English,Food nutrition,Ragi,"Fiber, Calcium",Breakfast,Weight management,Vegetarian,Urban
+NUT0007,summer lo ragi thinte body heat chesthunda,Telugu- English,Food nutrition,Ragi,"Fiber, Calcium",Breakfast,General health,Vegetarian,Urban
+NUT0008,kids ki ragi pedithe bones strong avthaya,Telugu- English,child nutrition,Ragi,"Fiber, Calcium",Breakfast,Child nutrition,Vegetarian,Urban
+NUT0009,jowar / jonna daily thinte weight thagguthunda,Telugu- English,Weight Loss,Jowar,Fiber,Lunch,Weight Loss,Vegetarian,Rural
+NUT0010,sugar unna vallu jowar / jonna roju teeskocha,Telugu- English,Diabetes management,Jowar,Fiber,Lunch,Blood sugar control,Vegetarian,Urban
+NUT0011,jowar / jonna breakfast lo thinte energy full day untunda,Telugu- English,Meal Planning,Jowar,Fiber,Lunch,General health,Vegetarian,Urban
+NUT0012,jowar / jonna dinner lo thinte digestion ki easy ga untunda,Telugu- English,Food nutrition,Jowar,Fiber,Lunch,Digestion,Vegetarian,Urban
+NUT0013,weight loss kosam rice badalu jowar / jonna thinacha,Telugu- English,Weight Loss,Jowar,Fiber,Lunch,Weight Loss,Vegetarian,Urban
+NUT0014,jowar / jonna lo carbs entha untayi,Telugu- English,Food nutrition,Jowar,Fiber,Lunch,Weight management,Vegetarian,Urban
+NUT0015,summer lo jowar / jonna thinte body heat chesthunda,Telugu- English,Food nutrition,Jowar,Fiber,Lunch,General health,Vegetarian,Urban
+NUT0016,kids ki jowar / jonna pedithe bones strong avthaya,Telugu- English,child nutrition,Jowar,Fiber,Lunch,Child nutrition,Vegetarian,Urban
+NUT0017,bajra / sajjalu daily thinte weight thagguthunda,Telugu- English,Weight Loss,Bajra,"Fiber, Iron",Lunch,Weight Loss,Vegetarian,Rural
+NUT0018,sugar unna vallu bajra / sajjalu roju teeskocha,Telugu- English,Diabetes management,Bajra,"Fiber, Iron",Lunch,Blood sugar control,Vegetarian,Urban
+NUT0019,bajra / sajjalu breakfast lo thinte energy full day untunda,Telugu- English,Meal Planning,Bajra,"Fiber, Iron",Lunch,General health,Vegetarian,Rural
+NUT0020,bajra / sajjalu dinner lo thinte digestion ki easy ga untunda,Telugu- English,Food nutrition,Bajra,"Fiber, Iron",Lunch,Digestion,Vegetarian,Rural
+NUT0021,weight loss kosam rice badalu bajra / sajjalu thinacha,Telugu- English,Weight Loss,Bajra,"Fiber, Iron",Lunch,Weight Loss,Vegetarian,Urban
+NUT0022,bajra / sajjalu lo carbs entha untayi,Telugu- English,Food nutrition,Bajra,"Fiber, Iron",Lunch,Weight management,Vegetarian,Urban
+NUT0023,summer lo bajra / sajjalu thinte body heat chesthunda,Telugu- English,Food nutrition,Bajra,"Fiber, Iron",Lunch,General health,Vegetarian,Rural
+NUT0024,kids ki bajra / sajjalu pedithe bones strong avthaya,Telugu- English,child nutrition,Bajra,"Fiber, Iron",Lunch,Child nutrition,Vegetarian,Rural
+NUT0025,korralu / foxtail millet daily thinte weight thagguthunda,Telugu- English,Weight Loss,Korralu,Fiber,Lunch,Weight Loss,Vegetarian,Rural
+NUT0026,sugar unna vallu korralu / foxtail millet roju teeskocha,Telugu- English,Diabetes management,Korralu,Fiber,Lunch,Blood sugar control,Vegetarian,Urban
+NUT0027,korralu / foxtail millet breakfast lo thinte energy full day untunda,Telugu- English,Meal Planning,Korralu,Fiber,Lunch,General health,Vegetarian,Urban
+NUT0028,korralu / foxtail millet dinner lo thinte digestion ki easy ga untunda,Telugu- English,Food nutrition,Korralu,Fiber,Lunch,Digestion,Vegetarian,Rural
+NUT0029,weight loss kosam rice badalu korralu / foxtail millet thinacha,Telugu- English,Weight Loss,Korralu,Fiber,Lunch,Weight Loss,Vegetarian,Urban
+NUT0030,korralu / foxtail millet lo carbs entha untayi,Telugu- English,Food nutrition,Korralu,Fiber,Lunch,Weight management,Vegetarian,Urban
+NUT0031,summer lo korralu / foxtail millet thinte body heat chesthunda,Telugu- English,Food nutrition,Korralu,Fiber,Lunch,General health,Vegetarian,Rural
+NUT0032,kids ki korralu / foxtail millet pedithe bones strong avthaya,Telugu- English,child nutrition,Korralu,Fiber,Lunch,Child nutrition,Vegetarian,Urban
+NUT0033,samalu / little millet daily thinte weight thagguthunda,Telugu- English,Weight Loss,Samalu,Fiber,Dinner,Weight Loss,Vegetarian,Rural
+NUT0034,sugar unna vallu samalu / little millet roju teeskocha,Telugu- English,Diabetes management,Samalu,Fiber,Dinner,Blood sugar control,Vegetarian,Rural
+NUT0035,samalu / little millet breakfast lo thinte energy full day untunda,Telugu- English,Meal Planning,Samalu,Fiber,Dinner,General health,Vegetarian,Rural
+NUT0036,samalu / little millet dinner lo thinte digestion ki easy ga untunda,Telugu- English,Food nutrition,Samalu,Fiber,Dinner,Digestion,Vegetarian,Urban
+NUT0037,weight loss kosam rice badalu samalu / little millet thinacha,Telugu- English,Weight Loss,Samalu,Fiber,Dinner,Weight Loss,Vegetarian,Rural
+NUT0038,samalu / little millet lo carbs entha untayi,Telugu- English,Food nutrition,Samalu,Fiber,Dinner,Weight management,Vegetarian,Urban
+NUT0039,summer lo samalu / little millet thinte body heat chesthunda,Telugu- English,Food nutrition,Samalu,Fiber,Dinner,General health,Vegetarian,Rural
+NUT0040,kids ki samalu / little millet pedithe bones strong avthaya,Telugu- English,child nutrition,Samalu,Fiber,Dinner,Child nutrition,Vegetarian,Urban
+NUT0041,arikelu / kodo millet daily thinte weight thagguthunda,Telugu- English,Weight Loss,Arikelu,Fiber,Dinner,Weight Loss,Vegetarian,Rural
+NUT0042,sugar unna vallu arikelu / kodo millet roju teeskocha,Telugu- English,Diabetes management,Arikelu,Fiber,Dinner,Blood sugar control,Vegetarian,Rural
+NUT0043,arikelu / kodo millet breakfast lo thinte energy full day untunda,Telugu- English,Meal Planning,Arikelu,Fiber,Dinner,General health,Vegetarian,Urban
+NUT0044,arikelu / kodo millet dinner lo thinte digestion ki easy ga untunda,Telugu- English,Food nutrition,Arikelu,Fiber,Dinner,Digestion,Vegetarian,Urban
+NUT0045,weight loss kosam rice badalu arikelu / kodo millet thinacha,Telugu- English,Weight Loss,Arikelu,Fiber,Dinner,Weight Loss,Vegetarian,Urban
+NUT0046,arikelu / kodo millet lo carbs entha untayi,Telugu- English,Food nutrition,Arikelu,Fiber,Dinner,Weight management,Vegetarian,Urban
+NUT0047,summer lo arikelu / kodo millet thinte body heat chesthunda,Telugu- English,Food nutrition,Arikelu,Fiber,Dinner,General health,Vegetarian,Rural
+NUT0048,kids ki arikelu / kodo millet pedithe bones strong avthaya,Telugu- English,child nutrition,Arikelu,Fiber,Dinner,Child nutrition,Vegetarian,Urban
+NUT0049,oats daily thinte weight thagguthunda,Telugu- English,Weight Loss,Oats,Fiber,Breakfast,Weight Loss,Vegetarian,Urban
+NUT0050,sugar unna vallu oats roju teeskocha,Telugu- English,Diabetes management,Oats,Fiber,Breakfast,Blood sugar control,Vegetarian,Urban
+NUT0051,oats breakfast lo thinte energy full day untunda,Telugu- English,Meal Planning,Oats,Fiber,Breakfast,General health,Vegetarian,Rural
+NUT0052,oats dinner lo thinte digestion ki easy ga untunda,Telugu- English,Food nutrition,Oats,Fiber,Breakfast,Digestion,Vegetarian,Rural
+NUT0053,weight loss kosam rice badalu oats thinacha,Telugu- English,Weight Loss,Oats,Fiber,Breakfast,Weight Loss,Vegetarian,Rural
+NUT0054,oats lo carbs entha untayi,Telugu- English,Food nutrition,Oats,Fiber,Breakfast,Weight management,Vegetarian,Rural
+NUT0055,summer lo oats thinte body heat chesthunda,Telugu- English,Food nutrition,Oats,Fiber,Breakfast,General health,Vegetarian,Urban
+NUT0056,kids ki oats pedithe bones strong avthaya,Telugu- English,child nutrition,Oats,Fiber,Breakfast,Child nutrition,Vegetarian,Rural
+NUT0057,brown rice daily thinte weight thagguthunda,Telugu- English,Weight Loss,Brown rice,Complex carbs,Lunch,Weight Loss,Vegetarian,Rural
+NUT0058,sugar unna vallu brown rice roju teeskocha,Telugu- English,Diabetes management,Brown rice,Complex carbs,Lunch,Blood sugar control,Vegetarian,Urban
+NUT0059,brown rice breakfast lo thinte energy full day untunda,Telugu- English,Meal Planning,Brown rice,Complex carbs,Lunch,General health,Vegetarian,Rural
+NUT0060,brown rice dinner lo thinte digestion ki easy ga untunda,Telugu- English,Food nutrition,Brown rice,Complex carbs,Lunch,Digestion,Vegetarian,Urban
+NUT0061,weight loss kosam rice badalu brown rice thinacha,Telugu- English,Weight Loss,Brown rice,Complex carbs,Lunch,Weight Loss,Vegetarian,Urban
+NUT0062,brown rice lo carbs entha untayi,Telugu- English,Food nutrition,Brown rice,Complex carbs,Lunch,Weight management,Vegetarian,Urban
+NUT0063,summer lo brown rice thinte body heat chesthunda,Telugu- English,Food nutrition,Brown rice,Complex carbs,Lunch,General health,Vegetarian,Urban
+NUT0064,kids ki brown rice pedithe bones strong avthaya,Telugu- English,child nutrition,Brown rice,Complex carbs,Lunch,Child nutrition,Vegetarian,Rural
+NUT0065,red rice daily thinte weight thagguthunda,Telugu- English,Weight Loss,Red rice,"Fiber, Antioxidants",Lunch,Weight Loss,Vegetarian,Rural
+NUT0066,sugar unna vallu red rice roju teeskocha,Telugu- English,Diabetes management,Red rice,"Fiber, Antioxidants",Lunch,Blood sugar control,Vegetarian,Rural
+NUT0067,red rice breakfast lo thinte energy full day untunda,Telugu- English,Meal Planning,Red rice,"Fiber, Antioxidants",Lunch,General health,Vegetarian,Urban
+NUT0068,red rice dinner lo thinte digestion ki easy ga untunda,Telugu- English,Food nutrition,Red rice,"Fiber, Antioxidants",Lunch,Digestion,Vegetarian,Rural
+NUT0069,weight loss kosam rice badalu red rice thinacha,Telugu- English,Weight Loss,Red rice,"Fiber, Antioxidants",Lunch,Weight Loss,Vegetarian,Urban
+NUT0070,red rice lo carbs entha untayi,Telugu- English,Food nutrition,Red rice,"Fiber, Antioxidants",Lunch,Weight management,Vegetarian,Urban
+NUT0071,summer lo red rice thinte body heat chesthunda,Telugu- English,Food nutrition,Red rice,"Fiber, Antioxidants",Lunch,General health,Vegetarian,Urban
+NUT0072,kids ki red rice pedithe bones strong avthaya,Telugu- English,child nutrition,Red rice,"Fiber, Antioxidants",Lunch,Child nutrition,Vegetarian,Rural
+NUT0073,barley daily thinte weight thagguthunda,Telugu- English,Weight Loss,Barley,Soluble fiber,Breakfast,Weight Loss,Vegetarian,Rural
+NUT0074,sugar unna vallu barley roju teeskocha,Telugu- English,Diabetes management,Barley,Soluble fiber,Breakfast,Blood sugar control,Vegetarian,Rural
+NUT0075,barley breakfast lo thinte energy full day untunda,Telugu- English,Meal Planning,Barley,Soluble fiber,Breakfast,General health,Vegetarian,Urban
+NUT0076,barley dinner lo thinte digestion ki easy ga untunda,Telugu- English,Food nutrition,Barley,Soluble fiber,Breakfast,Digestion,Vegetarian,Urban
+NUT0077,weight loss kosam rice badalu barley thinacha,Telugu- English,Weight Loss,Barley,Soluble fiber,Breakfast,Weight Loss,Vegetarian,Rural
+NUT0078,barley lo carbs entha untayi,Telugu- English,Food nutrition,Barley,Soluble fiber,Breakfast,Weight management,Vegetarian,Urban
+NUT0079,summer lo barley thinte body heat chesthunda,Telugu- English,Food nutrition,Barley,Soluble fiber,Breakfast,General health,Vegetarian,Rural
+NUT0080,kids ki barley pedithe bones strong avthaya,Telugu- English,child nutrition,Barley,Soluble fiber,Breakfast,Child nutrition,Vegetarian,Rural
+NUT0081,quinoa daily thinte weight thagguthunda,Telugu- English,Weight Loss,Quinoa,"Protein, Fiber",Lunch,Weight Loss,Vegetarian,Rural
+NUT0082,sugar unna vallu quinoa roju teeskocha,Telugu- English,Diabetes management,Quinoa,"Protein, Fiber",Lunch,Blood sugar control,Vegetarian,Urban
+NUT0083,quinoa breakfast lo thinte energy full day untunda,Telugu- English,Meal Planning,Quinoa,"Protein, Fiber",Lunch,General health,Vegetarian,Rural
+NUT0084,quinoa dinner lo thinte digestion ki easy ga untunda,Telugu- English,Food nutrition,Quinoa,"Protein, Fiber",Lunch,Digestion,Vegetarian,Urban
+NUT0085,weight loss kosam rice badalu quinoa thinacha,Telugu- English,Weight Loss,Quinoa,"Protein, Fiber",Lunch,Weight Loss,Vegetarian,Urban
+NUT0086,quinoa lo carbs entha untayi,Telugu- English,Food nutrition,Quinoa,"Protein, Fiber",Lunch,Weight management,Vegetarian,Rural
+NUT0087,summer lo quinoa thinte body heat chesthunda,Telugu- English,Food nutrition,Quinoa,"Protein, Fiber",Lunch,General health,Vegetarian,Rural
+NUT0088,kids ki quinoa pedithe bones strong avthaya,Telugu- English,child nutrition,Quinoa,"Protein, Fiber",Lunch,Child nutrition,Vegetarian,Rural
+NUT0089,godhuma ravva daily thinte weight thagguthunda,Telugu- English,Weight Loss,Godhuma ravva,Fiber,Breakfast,Weight Loss,Vegetarian,Rural
+NUT0090,sugar unna vallu godhuma ravva roju teeskocha,Telugu- English,Diabetes management,Godhuma ravva,Fiber,Breakfast,Blood sugar control,Vegetarian,Urban
+NUT0091,godhuma ravva breakfast lo thinte energy full day untunda,Telugu- English,Meal Planning,Godhuma ravva,Fiber,Breakfast,General health,Vegetarian,Urban
+NUT0092,godhuma ravva dinner lo thinte digestion ki easy ga untunda,Telugu- English,Food nutrition,Godhuma ravva,Fiber,Breakfast,Digestion,Vegetarian,Rural
+NUT0093,weight loss kosam rice badalu godhuma ravva thinacha,Telugu- English,Weight Loss,Godhuma ravva,Fiber,Breakfast,Weight Loss,Vegetarian,Urban
+NUT0094,godhuma ravva lo carbs entha untayi,Telugu- English,Food nutrition,Godhuma ravva,Fiber,Breakfast,Weight management,Vegetarian,Urban
+NUT0095,summer lo godhuma ravva thinte body heat chesthunda,Telugu- English,Food nutrition,Godhuma ravva,Fiber,Breakfast,General health,Vegetarian,Urban
+NUT0096,kids ki godhuma ravva pedithe bones strong avthaya,Telugu- English,child nutrition,Godhuma ravva,Fiber,Breakfast,Child nutrition,Vegetarian,Urban
+NUT0097,gym workout tarvatha boiled eggs thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Boiled eggs,Protein,Snack,Muscle gain,Non-veg,Urban
+NUT0098,daily boiled eggs thinte protein target reach avocha,Telugu- English,Protein,Boiled eggs,Protein,Breakfast,Muscle gain,Non-veg,Rural
+NUT0099,weight loss diet lo boiled eggs include cheyocha,Telugu- English,Weight Loss,Boiled eggs,Protein,Breakfast,Weight Loss,Non-veg,Urban
+NUT0100,boiled eggs morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Boiled eggs,Protein,Breakfast,General health,Non-veg,Rural
+NUT0101,boiled eggs lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Boiled eggs,Protein,Breakfast,Weight management,Non-veg,Rural
+NUT0102,daily boiled eggs ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Boiled eggs,Protein,Breakfast,General health,Non-veg,Rural
+NUT0103,muscle building kosam boiled eggs best aa,Telugu- English,Protein,Boiled eggs,Protein,Breakfast,Muscle gain,Non-veg,Rural
+NUT0104,boiled eggs night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Boiled eggs,Protein,Dinner,Digestion,Non-veg,Urban
+NUT0105,gym workout tarvatha egg whites thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Egg whites,Protein,Snack,Muscle gain,Non-veg,Urban
+NUT0106,daily egg whites thinte protein target reach avocha,Telugu- English,Protein,Egg whites,Protein,Breakfast,Muscle gain,Non-veg,Rural
+NUT0107,weight loss diet lo egg whites include cheyocha,Telugu- English,Weight Loss,Egg whites,Protein,Breakfast,Weight Loss,Non-veg,Rural
+NUT0108,egg whites morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Egg whites,Protein,Breakfast,General health,Non-veg,Urban
+NUT0109,egg whites lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Egg whites,Protein,Breakfast,Weight management,Non-veg,Rural
+NUT0110,daily egg whites ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Egg whites,Protein,Breakfast,General health,Non-veg,Rural
+NUT0111,muscle building kosam egg whites best aa,Telugu- English,Protein,Egg whites,Protein,Breakfast,Muscle gain,Non-veg,Urban
+NUT0112,egg whites night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Egg whites,Protein,Dinner,Digestion,Non-veg,Rural
+NUT0113,gym workout tarvatha paneer thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Paneer,"Protein, Calcium",Snack,Muscle gain,Vegetarian,Urban
+NUT0114,daily paneer thinte protein target reach avocha,Telugu- English,Protein,Paneer,"Protein, Calcium",Dinner,Muscle gain,Vegetarian,Rural
+NUT0115,weight loss diet lo paneer include cheyocha,Telugu- English,Weight Loss,Paneer,"Protein, Calcium",Dinner,Weight Loss,Vegetarian,Urban
+NUT0116,paneer morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Paneer,"Protein, Calcium",Breakfast,General health,Vegetarian,Urban
+NUT0117,paneer lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Paneer,"Protein, Calcium",Dinner,Weight management,Vegetarian,Rural
+NUT0118,daily paneer ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Paneer,"Protein, Calcium",Dinner,General health,Vegetarian,Urban
+NUT0119,muscle building kosam paneer best aa,Telugu- English,Protein,Paneer,"Protein, Calcium",Dinner,Muscle gain,Vegetarian,Urban
+NUT0120,paneer night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Paneer,"Protein, Calcium",Dinner,Digestion,Vegetarian,Rural
+NUT0121,gym workout tarvatha tofu thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Tofu,Protein,Snack,Muscle gain,Vegetarian,Urban
+NUT0122,daily tofu thinte protein target reach avocha,Telugu- English,Protein,Tofu,Protein,Lunch,Muscle gain,Vegetarian,Urban
+NUT0123,weight loss diet lo tofu include cheyocha,Telugu- English,Weight Loss,Tofu,Protein,Lunch,Weight Loss,Vegetarian,Rural
+NUT0124,tofu morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Tofu,Protein,Breakfast,General health,Vegetarian,Rural
+NUT0125,tofu lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Tofu,Protein,Lunch,Weight management,Vegetarian,Urban
+NUT0126,daily tofu ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Tofu,Protein,Lunch,General health,Vegetarian,Urban
+NUT0127,muscle building kosam tofu best aa,Telugu- English,Protein,Tofu,Protein,Lunch,Muscle gain,Vegetarian,Rural
+NUT0128,tofu night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Tofu,Protein,Dinner,Digestion,Vegetarian,Rural
+NUT0129,gym workout tarvatha chicken breast thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Chicken breast,Protein,Snack,Muscle gain,Non-veg,Urban
+NUT0130,daily chicken breast thinte protein target reach avocha,Telugu- English,Protein,Chicken breast,Protein,Lunch,Muscle gain,Non-veg,Urban
+NUT0131,weight loss diet lo chicken breast include cheyocha,Telugu- English,Weight Loss,Chicken breast,Protein,Lunch,Weight Loss,Non-veg,Urban
+NUT0132,chicken breast morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Chicken breast,Protein,Breakfast,General health,Non-veg,Urban
+NUT0133,chicken breast lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Chicken breast,Protein,Lunch,Weight management,Non-veg,Urban
+NUT0134,daily chicken breast ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Chicken breast,Protein,Lunch,General health,Non-veg,Rural
+NUT0135,muscle building kosam chicken breast best aa,Telugu- English,Protein,Chicken breast,Protein,Lunch,Muscle gain,Non-veg,Urban
+NUT0136,chicken breast night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Chicken breast,Protein,Dinner,Digestion,Non-veg,Urban
+NUT0137,gym workout tarvatha soya chunks thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Soya chunks,Protein,Snack,Muscle gain,Vegetarian,Urban
+NUT0138,daily soya chunks thinte protein target reach avocha,Telugu- English,Protein,Soya chunks,Protein,Lunch,Muscle gain,Vegetarian,Rural
+NUT0139,weight loss diet lo soya chunks include cheyocha,Telugu- English,Weight Loss,Soya chunks,Protein,Lunch,Weight Loss,Vegetarian,Urban
+NUT0140,soya chunks morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Soya chunks,Protein,Breakfast,General health,Vegetarian,Rural
+NUT0141,soya chunks lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Soya chunks,Protein,Lunch,Weight management,Vegetarian,Rural
+NUT0142,daily soya chunks ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Soya chunks,Protein,Lunch,General health,Vegetarian,Urban
+NUT0143,muscle building kosam soya chunks best aa,Telugu- English,Protein,Soya chunks,Protein,Lunch,Muscle gain,Vegetarian,Urban
+NUT0144,soya chunks night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Soya chunks,Protein,Dinner,Digestion,Vegetarian,Rural
+NUT0145,gym workout tarvatha sprouts thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Sprouts,"Protein, Fiber",Snack,Muscle gain,Vegetarian,Rural
+NUT0146,daily sprouts thinte protein target reach avocha,Telugu- English,Protein,Sprouts,"Protein, Fiber",Breakfast,Muscle gain,Vegetarian,Rural
+NUT0147,weight loss diet lo sprouts include cheyocha,Telugu- English,Weight Loss,Sprouts,"Protein, Fiber",Breakfast,Weight Loss,Vegetarian,Rural
+NUT0148,sprouts morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Sprouts,"Protein, Fiber",Breakfast,General health,Vegetarian,Rural
+NUT0149,sprouts lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Sprouts,"Protein, Fiber",Breakfast,Weight management,Vegetarian,Urban
+NUT0150,daily sprouts ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Sprouts,"Protein, Fiber",Breakfast,General health,Vegetarian,Urban
+NUT0151,muscle building kosam sprouts best aa,Telugu- English,Protein,Sprouts,"Protein, Fiber",Breakfast,Muscle gain,Vegetarian,Urban
+NUT0152,sprouts night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Sprouts,"Protein, Fiber",Dinner,Digestion,Vegetarian,Urban
+NUT0153,gym workout tarvatha whey protein thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Whey protein,Protein,Snack,Muscle gain,Vegetarian,Rural
+NUT0154,daily whey protein thinte protein target reach avocha,Telugu- English,Protein,Whey protein,Protein,Snack,Muscle gain,Vegetarian,Urban
+NUT0155,weight loss diet lo whey protein include cheyocha,Telugu- English,Weight Loss,Whey protein,Protein,Snack,Weight Loss,Vegetarian,Urban
+NUT0156,whey protein morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Whey protein,Protein,Breakfast,General health,Vegetarian,Urban
+NUT0157,whey protein lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Whey protein,Protein,Snack,Weight management,Vegetarian,Urban
+NUT0158,daily whey protein ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Whey protein,Protein,Snack,General health,Vegetarian,Urban
+NUT0159,muscle building kosam whey protein best aa,Telugu- English,Protein,Whey protein,Protein,Snack,Muscle gain,Vegetarian,Urban
+NUT0160,whey protein night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Whey protein,Protein,Dinner,Digestion,Vegetarian,Urban
+NUT0161,gym workout tarvatha peanut butter thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Peanut butter,"Protein, Healthy fats",Snack,Muscle gain,Vegetarian,Urban
+NUT0162,daily peanut butter thinte protein target reach avocha,Telugu- English,Protein,Peanut butter,"Protein, Healthy fats",Snack,Muscle gain,Vegetarian,Urban
+NUT0163,weight loss diet lo peanut butter include cheyocha,Telugu- English,Weight Loss,Peanut butter,"Protein, Healthy fats",Snack,Weight Loss,Vegetarian,Rural
+NUT0164,peanut butter morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Peanut butter,"Protein, Healthy fats",Breakfast,General health,Vegetarian,Urban
+NUT0165,peanut butter lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Peanut butter,"Protein, Healthy fats",Snack,Weight management,Vegetarian,Urban
+NUT0166,daily peanut butter ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Peanut butter,"Protein, Healthy fats",Snack,General health,Vegetarian,Rural
+NUT0167,muscle building kosam peanut butter best aa,Telugu- English,Protein,Peanut butter,"Protein, Healthy fats",Snack,Muscle gain,Vegetarian,Rural
+NUT0168,peanut butter night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Peanut butter,"Protein, Healthy fats",Dinner,Digestion,Vegetarian,Urban
+NUT0169,gym workout tarvatha roasted chana thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Roasted chana,"Protein, Fiber",Snack,Muscle gain,Vegetarian,Urban
+NUT0170,daily roasted chana thinte protein target reach avocha,Telugu- English,Protein,Roasted chana,"Protein, Fiber",Snack,Muscle gain,Vegetarian,Rural
+NUT0171,weight loss diet lo roasted chana include cheyocha,Telugu- English,Weight Loss,Roasted chana,"Protein, Fiber",Snack,Weight Loss,Vegetarian,Urban
+NUT0172,roasted chana morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Roasted chana,"Protein, Fiber",Breakfast,General health,Vegetarian,Rural
+NUT0173,roasted chana lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Roasted chana,"Protein, Fiber",Snack,Weight management,Vegetarian,Rural
+NUT0174,daily roasted chana ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Roasted chana,"Protein, Fiber",Snack,General health,Vegetarian,Urban
+NUT0175,muscle building kosam roasted chana best aa,Telugu- English,Protein,Roasted chana,"Protein, Fiber",Snack,Muscle gain,Vegetarian,Urban
+NUT0176,roasted chana night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Roasted chana,"Protein, Fiber",Dinner,Digestion,Vegetarian,Urban
+NUT0177,gym workout tarvatha sattu drink thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Sattu,Protein,Snack,Muscle gain,Vegetarian,Rural
+NUT0178,daily sattu drink thinte protein target reach avocha,Telugu- English,Protein,Sattu,Protein,Breakfast,Muscle gain,Vegetarian,Rural
+NUT0179,weight loss diet lo sattu drink include cheyocha,Telugu- English,Weight Loss,Sattu,Protein,Breakfast,Weight Loss,Vegetarian,Rural
+NUT0180,sattu drink morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Sattu,Protein,Breakfast,General health,Vegetarian,Rural
+NUT0181,sattu drink lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Sattu,Protein,Breakfast,Weight management,Vegetarian,Rural
+NUT0182,daily sattu drink ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Sattu,Protein,Breakfast,General health,Vegetarian,Urban
+NUT0183,muscle building kosam sattu drink best aa,Telugu- English,Protein,Sattu,Protein,Breakfast,Muscle gain,Vegetarian,Urban
+NUT0184,sattu drink night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Sattu,Protein,Dinner,Digestion,Vegetarian,Urban
+NUT0185,gym workout tarvatha greek yogurt thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Greek yogurt,Protein,Snack,Muscle gain,Vegetarian,Rural
+NUT0186,daily greek yogurt thinte protein target reach avocha,Telugu- English,Protein,Greek yogurt,Protein,Snack,Muscle gain,Vegetarian,Rural
+NUT0187,weight loss diet lo greek yogurt include cheyocha,Telugu- English,Weight Loss,Greek yogurt,Protein,Snack,Weight Loss,Vegetarian,Urban
+NUT0188,greek yogurt morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Greek yogurt,Protein,Breakfast,General health,Vegetarian,Urban
+NUT0189,greek yogurt lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Greek yogurt,Protein,Snack,Weight management,Vegetarian,Urban
+NUT0190,daily greek yogurt ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Greek yogurt,Protein,Snack,General health,Vegetarian,Urban
+NUT0191,muscle building kosam greek yogurt best aa,Telugu- English,Protein,Greek yogurt,Protein,Snack,Muscle gain,Vegetarian,Rural
+NUT0192,greek yogurt night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Greek yogurt,Protein,Dinner,Digestion,Vegetarian,Urban
+NUT0193,gym workout tarvatha fish thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Fish,"Protein, Omega-3",Snack,Muscle gain,Non-veg,Rural
+NUT0194,daily fish thinte protein target reach avocha,Telugu- English,Protein,Fish,"Protein, Omega-3",Lunch,Muscle gain,Non-veg,Urban
+NUT0195,weight loss diet lo fish include cheyocha,Telugu- English,Weight Loss,Fish,"Protein, Omega-3",Lunch,Weight Loss,Non-veg,Rural
+NUT0196,fish morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Fish,"Protein, Omega-3",Breakfast,General health,Non-veg,Rural
+NUT0197,fish lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Fish,"Protein, Omega-3",Lunch,Weight management,Non-veg,Urban
+NUT0198,daily fish ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Fish,"Protein, Omega-3",Lunch,General health,Non-veg,Urban
+NUT0199,muscle building kosam fish best aa,Telugu- English,Protein,Fish,"Protein, Omega-3",Lunch,Muscle gain,Non-veg,Rural
+NUT0200,fish night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Fish,"Protein, Omega-3",Dinner,Digestion,Non-veg,Urban
+NUT0201,gym workout tarvatha mutton liver thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Mutton liver,"Protein, Iron",Snack,Muscle gain,Non-veg,Urban
+NUT0202,daily mutton liver thinte protein target reach avocha,Telugu- English,Protein,Mutton liver,"Protein, Iron",Lunch,Muscle gain,Non-veg,Urban
+NUT0203,weight loss diet lo mutton liver include cheyocha,Telugu- English,Weight Loss,Mutton liver,"Protein, Iron",Lunch,Weight Loss,Non-veg,Urban
+NUT0204,mutton liver morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Mutton liver,"Protein, Iron",Breakfast,General health,Non-veg,Urban
+NUT0205,mutton liver lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Mutton liver,"Protein, Iron",Lunch,Weight management,Non-veg,Urban
+NUT0206,daily mutton liver ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Mutton liver,"Protein, Iron",Lunch,General health,Non-veg,Rural
+NUT0207,muscle building kosam mutton liver best aa,Telugu- English,Protein,Mutton liver,"Protein, Iron",Lunch,Muscle gain,Non-veg,Rural
+NUT0208,mutton liver night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Mutton liver,"Protein, Iron",Dinner,Digestion,Non-veg,Rural
+NUT0209,gym workout tarvatha rajma thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Rajma,"Protein, Fiber",Snack,Muscle gain,Vegetarian,Urban
+NUT0210,daily rajma thinte protein target reach avocha,Telugu- English,Protein,Rajma,"Protein, Fiber",Lunch,Muscle gain,Vegetarian,Rural
+NUT0211,weight loss diet lo rajma include cheyocha,Telugu- English,Weight Loss,Rajma,"Protein, Fiber",Lunch,Weight Loss,Vegetarian,Urban
+NUT0212,rajma morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Rajma,"Protein, Fiber",Breakfast,General health,Vegetarian,Urban
+NUT0213,rajma lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Rajma,"Protein, Fiber",Lunch,Weight management,Vegetarian,Rural
+NUT0214,daily rajma ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Rajma,"Protein, Fiber",Lunch,General health,Vegetarian,Urban
+NUT0215,muscle building kosam rajma best aa,Telugu- English,Protein,Rajma,"Protein, Fiber",Lunch,Muscle gain,Vegetarian,Rural
+NUT0216,rajma night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Rajma,"Protein, Fiber",Dinner,Digestion,Vegetarian,Rural
+NUT0217,gym workout tarvatha chole / chickpeas thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Chickpeas,"Protein, Fiber",Snack,Muscle gain,Vegetarian,Rural
+NUT0218,daily chole / chickpeas thinte protein target reach avocha,Telugu- English,Protein,Chickpeas,"Protein, Fiber",Lunch,Muscle gain,Vegetarian,Rural
+NUT0219,weight loss diet lo chole / chickpeas include cheyocha,Telugu- English,Weight Loss,Chickpeas,"Protein, Fiber",Lunch,Weight Loss,Vegetarian,Rural
+NUT0220,chole / chickpeas morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Chickpeas,"Protein, Fiber",Breakfast,General health,Vegetarian,Rural
+NUT0221,chole / chickpeas lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Chickpeas,"Protein, Fiber",Lunch,Weight management,Vegetarian,Urban
+NUT0222,daily chole / chickpeas ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Chickpeas,"Protein, Fiber",Lunch,General health,Vegetarian,Urban
+NUT0223,muscle building kosam chole / chickpeas best aa,Telugu- English,Protein,Chickpeas,"Protein, Fiber",Lunch,Muscle gain,Vegetarian,Rural
+NUT0224,chole / chickpeas night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Chickpeas,"Protein, Fiber",Dinner,Digestion,Vegetarian,Urban
+NUT0225,gym workout tarvatha moong dal thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Moong dal,Protein,Snack,Muscle gain,Vegetarian,Urban
+NUT0226,daily moong dal thinte protein target reach avocha,Telugu- English,Protein,Moong dal,Protein,Lunch,Muscle gain,Vegetarian,Urban
+NUT0227,weight loss diet lo moong dal include cheyocha,Telugu- English,Weight Loss,Moong dal,Protein,Lunch,Weight Loss,Vegetarian,Rural
+NUT0228,moong dal morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Moong dal,Protein,Breakfast,General health,Vegetarian,Urban
+NUT0229,moong dal lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Moong dal,Protein,Lunch,Weight management,Vegetarian,Urban
+NUT0230,daily moong dal ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Moong dal,Protein,Lunch,General health,Vegetarian,Rural
+NUT0231,muscle building kosam moong dal best aa,Telugu- English,Protein,Moong dal,Protein,Lunch,Muscle gain,Vegetarian,Urban
+NUT0232,moong dal night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Moong dal,Protein,Dinner,Digestion,Vegetarian,Urban
+NUT0233,gym workout tarvatha paneer tikka thinte muscle gain fast ga avtunda,Telugu- English,Fitness Nutrition,Paneer,Protein,Snack,Muscle gain,Vegetarian,Urban
+NUT0234,daily paneer tikka thinte protein target reach avocha,Telugu- English,Protein,Paneer,Protein,Snack,Muscle gain,Vegetarian,Urban
+NUT0235,weight loss diet lo paneer tikka include cheyocha,Telugu- English,Weight Loss,Paneer,Protein,Snack,Weight Loss,Vegetarian,Urban
+NUT0236,paneer tikka morning empty stomach lo thinte emaina problem aa,Telugu- English,General Nutrition,Paneer,Protein,Breakfast,General health,Vegetarian,Urban
+NUT0237,paneer tikka lo fat percentage ekuva untunda,Telugu- English,Food nutrition,Paneer,Protein,Snack,Weight management,Vegetarian,Urban
+NUT0238,daily paneer tikka ekuva thinte kidneys pain osthunda,Telugu- English,Food nutrition,Paneer,Protein,Snack,General health,Vegetarian,Rural
+NUT0239,muscle building kosam paneer tikka best aa,Telugu- English,Protein,Paneer,Protein,Snack,Muscle gain,Vegetarian,Urban
+NUT0240,paneer tikka night time lo thinte digestion kashtama,Telugu- English,Food nutrition,Paneer,Protein,Dinner,Digestion,Vegetarian,Urban
+NUT0241,diet chesthunapudu pesarattu thinacha,Telugu- English,Weight Loss,Pesarattu,"Protein, Fiber",Breakfast,Weight Loss,Vegetarian,Urban
+NUT0242,sugar patients ki pesarattu safe aa,Telugu- English,Diabetes management,Pesarattu,"Protein, Fiber",Breakfast,Blood sugar control,Vegetarian,Urban
+NUT0243,pesarattu thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Pesarattu,"Protein, Fiber",Breakfast,Weight management,Vegetarian,Rural
+NUT0244,dinner lo pesarattu thinte gas problem vasthunda,Telugu- English,General Nutrition,Pesarattu,"Protein, Fiber",Breakfast,Digestion,Vegetarian,Rural
+NUT0245,pesarattu regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Pesarattu,"Protein, Fiber",Breakfast,healthy eating,Vegetarian,Rural
+NUT0246,pesarattu lo nutrition value entha untundhi,Telugu- English,Food nutrition,Pesarattu,"Protein, Fiber",Breakfast,General health,Vegetarian,Urban
+NUT0247,diet chesthunapudu idli sambar thinacha,Telugu- English,Weight Loss,"Idli, Sambar","Carbohydrates, Protein",Breakfast,Weight Loss,Vegetarian,Rural
+NUT0248,sugar patients ki idli sambar safe aa,Telugu- English,Diabetes management,"Idli, Sambar","Carbohydrates, Protein",Breakfast,Blood sugar control,Vegetarian,Urban
+NUT0249,idli sambar thinte calories ekkuva peruguthaya,Telugu- English,Weight management,"Idli, Sambar","Carbohydrates, Protein",Breakfast,Weight management,Vegetarian,Rural
+NUT0250,dinner lo idli sambar thinte gas problem vasthunda,Telugu- English,General Nutrition,"Idli, Sambar","Carbohydrates, Protein",Breakfast,Digestion,Vegetarian,Rural
+NUT0251,idli sambar regular ga thinte health ki manchidha,Telugu- English,Healthy diet,"Idli, Sambar","Carbohydrates, Protein",Breakfast,healthy eating,Vegetarian,Urban
+NUT0252,idli sambar lo nutrition value entha untundhi,Telugu- English,Food nutrition,"Idli, Sambar","Carbohydrates, Protein",Breakfast,General health,Vegetarian,Rural
+NUT0253,diet chesthunapudu dosa thinacha,Telugu- English,Weight Loss,Dosa,Carbohydrates,Breakfast,Weight Loss,Vegetarian,Rural
+NUT0254,sugar patients ki dosa safe aa,Telugu- English,Diabetes management,Dosa,Carbohydrates,Breakfast,Blood sugar control,Vegetarian,Rural
+NUT0255,dosa thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Dosa,Carbohydrates,Breakfast,Weight management,Vegetarian,Urban
+NUT0256,dinner lo dosa thinte gas problem vasthunda,Telugu- English,General Nutrition,Dosa,Carbohydrates,Breakfast,Digestion,Vegetarian,Urban
+NUT0257,dosa regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Dosa,Carbohydrates,Breakfast,healthy eating,Vegetarian,Rural
+NUT0258,dosa lo nutrition value entha untundhi,Telugu- English,Food nutrition,Dosa,Carbohydrates,Breakfast,General health,Vegetarian,Urban
+NUT0259,diet chesthunapudu upma thinacha,Telugu- English,Weight Loss,Upma,Carbohydrates,Breakfast,Weight Loss,Vegetarian,Urban
+NUT0260,sugar patients ki upma safe aa,Telugu- English,Diabetes management,Upma,Carbohydrates,Breakfast,Blood sugar control,Vegetarian,Urban
+NUT0261,upma thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Upma,Carbohydrates,Breakfast,Weight management,Vegetarian,Rural
+NUT0262,dinner lo upma thinte gas problem vasthunda,Telugu- English,General Nutrition,Upma,Carbohydrates,Breakfast,Digestion,Vegetarian,Urban
+NUT0263,upma regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Upma,Carbohydrates,Breakfast,healthy eating,Vegetarian,Rural
+NUT0264,upma lo nutrition value entha untundhi,Telugu- English,Food nutrition,Upma,Carbohydrates,Breakfast,General health,Vegetarian,Urban
+NUT0265,diet chesthunapudu ragi sangati thinacha,Telugu- English,Weight Loss,Ragi sangati,"Calcium, Fiber",Lunch,Weight Loss,Vegetarian,Urban
+NUT0266,sugar patients ki ragi sangati safe aa,Telugu- English,Diabetes management,Ragi sangati,"Calcium, Fiber",Lunch,Blood sugar control,Vegetarian,Rural
+NUT0267,ragi sangati thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Ragi sangati,"Calcium, Fiber",Lunch,Weight management,Vegetarian,Rural
+NUT0268,dinner lo ragi sangati thinte gas problem vasthunda,Telugu- English,General Nutrition,Ragi sangati,"Calcium, Fiber",Lunch,Digestion,Vegetarian,Urban
+NUT0269,ragi sangati regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Ragi sangati,"Calcium, Fiber",Lunch,healthy eating,Vegetarian,Rural
+NUT0270,ragi sangati lo nutrition value entha untundhi,Telugu- English,Food nutrition,Ragi sangati,"Calcium, Fiber",Lunch,General health,Vegetarian,Rural
+NUT0271,diet chesthunapudu jonna rotte thinacha,Telugu- English,Weight Loss,Jonna rotte,Fiber,Lunch,Weight Loss,Vegetarian,Urban
+NUT0272,sugar patients ki jonna rotte safe aa,Telugu- English,Diabetes management,Jonna rotte,Fiber,Lunch,Blood sugar control,Vegetarian,Rural
+NUT0273,jonna rotte thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Jonna rotte,Fiber,Lunch,Weight management,Vegetarian,Urban
+NUT0274,dinner lo jonna rotte thinte gas problem vasthunda,Telugu- English,General Nutrition,Jonna rotte,Fiber,Lunch,Digestion,Vegetarian,Urban
+NUT0275,jonna rotte regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Jonna rotte,Fiber,Lunch,healthy eating,Vegetarian,Rural
+NUT0276,jonna rotte lo nutrition value entha untundhi,Telugu- English,Food nutrition,Jonna rotte,Fiber,Lunch,General health,Vegetarian,Urban
+NUT0277,diet chesthunapudu gongura pappu thinacha,Telugu- English,Weight Loss,Gongura pappu,"Iron, Protein",Lunch,Weight Loss,Vegetarian,Urban
+NUT0278,sugar patients ki gongura pappu safe aa,Telugu- English,Diabetes management,Gongura pappu,"Iron, Protein",Lunch,Blood sugar control,Vegetarian,Urban
+NUT0279,gongura pappu thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Gongura pappu,"Iron, Protein",Lunch,Weight management,Vegetarian,Rural
+NUT0280,dinner lo gongura pappu thinte gas problem vasthunda,Telugu- English,General Nutrition,Gongura pappu,"Iron, Protein",Lunch,Digestion,Vegetarian,Rural
+NUT0281,gongura pappu regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Gongura pappu,"Iron, Protein",Lunch,healthy eating,Vegetarian,Urban
+NUT0282,gongura pappu lo nutrition value entha untundhi,Telugu- English,Food nutrition,Gongura pappu,"Iron, Protein",Lunch,General health,Vegetarian,Rural
+NUT0283,diet chesthunapudu miriyala charu thinacha,Telugu- English,Weight Loss,Miriyala charu,Piperine,Dinner,Weight Loss,Vegetarian,Urban
+NUT0284,sugar patients ki miriyala charu safe aa,Telugu- English,Diabetes management,Miriyala charu,Piperine,Dinner,Blood sugar control,Vegetarian,Rural
+NUT0285,miriyala charu thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Miriyala charu,Piperine,Dinner,Weight management,Vegetarian,Rural
+NUT0286,dinner lo miriyala charu thinte gas problem vasthunda,Telugu- English,General Nutrition,Miriyala charu,Piperine,Dinner,Digestion,Vegetarian,Rural
+NUT0287,miriyala charu regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Miriyala charu,Piperine,Dinner,healthy eating,Vegetarian,Urban
+NUT0288,miriyala charu lo nutrition value entha untundhi,Telugu- English,Food nutrition,Miriyala charu,Piperine,Dinner,General health,Vegetarian,Urban
+NUT0289,diet chesthunapudu ulava charu thinacha,Telugu- English,Weight Loss,Ulava charu,"Protein, Iron",Lunch,Weight Loss,Vegetarian,Rural
+NUT0290,sugar patients ki ulava charu safe aa,Telugu- English,Diabetes management,Ulava charu,"Protein, Iron",Lunch,Blood sugar control,Vegetarian,Rural
+NUT0291,ulava charu thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Ulava charu,"Protein, Iron",Lunch,Weight management,Vegetarian,Urban
+NUT0292,dinner lo ulava charu thinte gas problem vasthunda,Telugu- English,General Nutrition,Ulava charu,"Protein, Iron",Lunch,Digestion,Vegetarian,Urban
+NUT0293,ulava charu regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Ulava charu,"Protein, Iron",Lunch,healthy eating,Vegetarian,Rural
+NUT0294,ulava charu lo nutrition value entha untundhi,Telugu- English,Food nutrition,Ulava charu,"Protein, Iron",Lunch,General health,Vegetarian,Urban
+NUT0295,diet chesthunapudu majjiga pulusu thinacha,Telugu- English,Weight Loss,Majjiga pulusu,Probiotics,Lunch,Weight Loss,Vegetarian,Rural
+NUT0296,sugar patients ki majjiga pulusu safe aa,Telugu- English,Diabetes management,Majjiga pulusu,Probiotics,Lunch,Blood sugar control,Vegetarian,Urban
+NUT0297,majjiga pulusu thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Majjiga pulusu,Probiotics,Lunch,Weight management,Vegetarian,Rural
+NUT0298,dinner lo majjiga pulusu thinte gas problem vasthunda,Telugu- English,General Nutrition,Majjiga pulusu,Probiotics,Lunch,Digestion,Vegetarian,Rural
+NUT0299,majjiga pulusu regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Majjiga pulusu,Probiotics,Lunch,healthy eating,Vegetarian,Urban
+NUT0300,majjiga pulusu lo nutrition value entha untundhi,Telugu- English,Food nutrition,Majjiga pulusu,Probiotics,Lunch,General health,Vegetarian,Urban
+NUT0301,diet chesthunapudu alasandalu vada thinacha,Telugu- English,Weight Loss,Alasandalu,Protein,Snack,Weight Loss,Vegetarian,Urban
+NUT0302,sugar patients ki alasandalu vada safe aa,Telugu- English,Diabetes management,Alasandalu,Protein,Snack,Blood sugar control,Vegetarian,Urban
+NUT0303,alasandalu vada thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Alasandalu,Protein,Snack,Weight management,Vegetarian,Urban
+NUT0304,dinner lo alasandalu vada thinte gas problem vasthunda,Telugu- English,General Nutrition,Alasandalu,Protein,Snack,Digestion,Vegetarian,Rural
+NUT0305,alasandalu vada regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Alasandalu,Protein,Snack,healthy eating,Vegetarian,Urban
+NUT0306,alasandalu vada lo nutrition value entha untundhi,Telugu- English,Food nutrition,Alasandalu,Protein,Snack,General health,Vegetarian,Rural
+NUT0307,diet chesthunapudu sunnundalu thinacha,Telugu- English,Weight Loss,Sunnundalu,"Iron, Protein",Snack,Weight Loss,Vegetarian,Urban
+NUT0308,sugar patients ki sunnundalu safe aa,Telugu- English,Diabetes management,Sunnundalu,"Iron, Protein",Snack,Blood sugar control,Vegetarian,Urban
+NUT0309,sunnundalu thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Sunnundalu,"Iron, Protein",Snack,Weight management,Vegetarian,Rural
+NUT0310,dinner lo sunnundalu thinte gas problem vasthunda,Telugu- English,General Nutrition,Sunnundalu,"Iron, Protein",Snack,Digestion,Vegetarian,Rural
+NUT0311,sunnundalu regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Sunnundalu,"Iron, Protein",Snack,healthy eating,Vegetarian,Urban
+NUT0312,sunnundalu lo nutrition value entha untundhi,Telugu- English,Food nutrition,Sunnundalu,"Iron, Protein",Snack,General health,Vegetarian,Rural
+NUT0313,diet chesthunapudu curd rice thinacha,Telugu- English,Weight Loss,Curd rice,"Probiotics, Carbs",Lunch,Weight Loss,Vegetarian,Urban
+NUT0314,sugar patients ki curd rice safe aa,Telugu- English,Diabetes management,Curd rice,"Probiotics, Carbs",Lunch,Blood sugar control,Vegetarian,Urban
+NUT0315,curd rice thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Curd rice,"Probiotics, Carbs",Lunch,Weight management,Vegetarian,Urban
+NUT0316,dinner lo curd rice thinte gas problem vasthunda,Telugu- English,General Nutrition,Curd rice,"Probiotics, Carbs",Lunch,Digestion,Vegetarian,Rural
+NUT0317,curd rice regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Curd rice,"Probiotics, Carbs",Lunch,healthy eating,Vegetarian,Rural
+NUT0318,curd rice lo nutrition value entha untundhi,Telugu- English,Food nutrition,Curd rice,"Probiotics, Carbs",Lunch,General health,Vegetarian,Urban
+NUT0319,diet chesthunapudu pappu charu thinacha,Telugu- English,Weight Loss,Pappu charu,Protein,Lunch,Weight Loss,Vegetarian,Urban
+NUT0320,sugar patients ki pappu charu safe aa,Telugu- English,Diabetes management,Pappu charu,Protein,Lunch,Blood sugar control,Vegetarian,Urban
+NUT0321,pappu charu thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Pappu charu,Protein,Lunch,Weight management,Vegetarian,Urban
+NUT0322,dinner lo pappu charu thinte gas problem vasthunda,Telugu- English,General Nutrition,Pappu charu,Protein,Lunch,Digestion,Vegetarian,Rural
+NUT0323,pappu charu regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Pappu charu,Protein,Lunch,healthy eating,Vegetarian,Urban
+NUT0324,pappu charu lo nutrition value entha untundhi,Telugu- English,Food nutrition,Pappu charu,Protein,Lunch,General health,Vegetarian,Urban
+NUT0325,diet chesthunapudu korralu khichdi thinacha,Telugu- English,Weight Loss,Korralu khichdi,Fiber,Dinner,Weight Loss,Vegetarian,Rural
+NUT0326,sugar patients ki korralu khichdi safe aa,Telugu- English,Diabetes management,Korralu khichdi,Fiber,Dinner,Blood sugar control,Vegetarian,Rural
+NUT0327,korralu khichdi thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Korralu khichdi,Fiber,Dinner,Weight management,Vegetarian,Urban
+NUT0328,dinner lo korralu khichdi thinte gas problem vasthunda,Telugu- English,General Nutrition,Korralu khichdi,Fiber,Dinner,Digestion,Vegetarian,Rural
+NUT0329,korralu khichdi regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Korralu khichdi,Fiber,Dinner,healthy eating,Vegetarian,Urban
+NUT0330,korralu khichdi lo nutrition value entha untundhi,Telugu- English,Food nutrition,Korralu khichdi,Fiber,Dinner,General health,Vegetarian,Urban
+NUT0331,diet chesthunapudu dosakaya pappu thinacha,Telugu- English,Weight Loss,Dosakaya pappu,"Protein, Fiber",Lunch,Weight Loss,Vegetarian,Rural
+NUT0332,sugar patients ki dosakaya pappu safe aa,Telugu- English,Diabetes management,Dosakaya pappu,"Protein, Fiber",Lunch,Blood sugar control,Vegetarian,Urban
+NUT0333,dosakaya pappu thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Dosakaya pappu,"Protein, Fiber",Lunch,Weight management,Vegetarian,Rural
+NUT0334,dinner lo dosakaya pappu thinte gas problem vasthunda,Telugu- English,General Nutrition,Dosakaya pappu,"Protein, Fiber",Lunch,Digestion,Vegetarian,Urban
+NUT0335,dosakaya pappu regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Dosakaya pappu,"Protein, Fiber",Lunch,healthy eating,Vegetarian,Urban
+NUT0336,dosakaya pappu lo nutrition value entha untundhi,Telugu- English,Food nutrition,Dosakaya pappu,"Protein, Fiber",Lunch,General health,Vegetarian,Rural
+NUT0337,diet chesthunapudu sorakaya kura thinacha,Telugu- English,Weight Loss,Bottle gourd,"Fiber, Water",Lunch,Weight Loss,Vegetarian,Rural
+NUT0338,sugar patients ki sorakaya kura safe aa,Telugu- English,Diabetes management,Bottle gourd,"Fiber, Water",Lunch,Blood sugar control,Vegetarian,Rural
+NUT0339,sorakaya kura thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Bottle gourd,"Fiber, Water",Lunch,Weight management,Vegetarian,Urban
+NUT0340,dinner lo sorakaya kura thinte gas problem vasthunda,Telugu- English,General Nutrition,Bottle gourd,"Fiber, Water",Lunch,Digestion,Vegetarian,Urban
+NUT0341,sorakaya kura regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Bottle gourd,"Fiber, Water",Lunch,healthy eating,Vegetarian,Urban
+NUT0342,sorakaya kura lo nutrition value entha untundhi,Telugu- English,Food nutrition,Bottle gourd,"Fiber, Water",Lunch,General health,Vegetarian,Urban
+NUT0343,diet chesthunapudu birakaya curry thinacha,Telugu- English,Weight Loss,Ridge gourd,Fiber,Dinner,Weight Loss,Vegetarian,Rural
+NUT0344,sugar patients ki birakaya curry safe aa,Telugu- English,Diabetes management,Ridge gourd,Fiber,Dinner,Blood sugar control,Vegetarian,Rural
+NUT0345,birakaya curry thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Ridge gourd,Fiber,Dinner,Weight management,Vegetarian,Rural
+NUT0346,dinner lo birakaya curry thinte gas problem vasthunda,Telugu- English,General Nutrition,Ridge gourd,Fiber,Dinner,Digestion,Vegetarian,Urban
+NUT0347,birakaya curry regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Ridge gourd,Fiber,Dinner,healthy eating,Vegetarian,Rural
+NUT0348,birakaya curry lo nutrition value entha untundhi,Telugu- English,Food nutrition,Ridge gourd,Fiber,Dinner,General health,Vegetarian,Rural
+NUT0349,diet chesthunapudu dondakaya vepudu thinacha,Telugu- English,Weight Loss,Ivy gourd,Fiber,Lunch,Weight Loss,Vegetarian,Rural
+NUT0350,sugar patients ki dondakaya vepudu safe aa,Telugu- English,Diabetes management,Ivy gourd,Fiber,Lunch,Blood sugar control,Vegetarian,Rural
+NUT0351,dondakaya vepudu thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Ivy gourd,Fiber,Lunch,Weight management,Vegetarian,Urban
+NUT0352,dinner lo dondakaya vepudu thinte gas problem vasthunda,Telugu- English,General Nutrition,Ivy gourd,Fiber,Lunch,Digestion,Vegetarian,Urban
+NUT0353,dondakaya vepudu regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Ivy gourd,Fiber,Lunch,healthy eating,Vegetarian,Rural
+NUT0354,dondakaya vepudu lo nutrition value entha untundhi,Telugu- English,Food nutrition,Ivy gourd,Fiber,Lunch,General health,Vegetarian,Urban
+NUT0355,diet chesthunapudu avise podi rice thinacha,Telugu- English,Weight Loss,Flaxseeds,Omega-3,Lunch,Weight Loss,Vegetarian,Rural
+NUT0356,sugar patients ki avise podi rice safe aa,Telugu- English,Diabetes management,Flaxseeds,Omega-3,Lunch,Blood sugar control,Vegetarian,Urban
+NUT0357,avise podi rice thinte calories ekkuva peruguthaya,Telugu- English,Weight management,Flaxseeds,Omega-3,Lunch,Weight management,Vegetarian,Urban
+NUT0358,dinner lo avise podi rice thinte gas problem vasthunda,Telugu- English,General Nutrition,Flaxseeds,Omega-3,Lunch,Digestion,Vegetarian,Rural
+NUT0359,avise podi rice regular ga thinte health ki manchidha,Telugu- English,Healthy diet,Flaxseeds,Omega-3,Lunch,healthy eating,Vegetarian,Rural
+NUT0360,avise podi rice lo nutrition value entha untundhi,Telugu- English,Food nutrition,Flaxseeds,Omega-3,Lunch,General health,Vegetarian,Rural
+NUT0361,morning empty stomach lo coconut water thagithe weight loss avthunda,Telugu- English,Weight Loss,Coconut water,"Electrolytes, Potassium",Snack,Weight Loss,Vegetarian,Rural
+NUT0362,daily roju coconut water teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Coconut water,"Electrolytes, Potassium",Snack,General health,Vegetarian,Urban
+NUT0363,coconut water acidity unna vallu thagocha,Telugu- English,General Nutrition,Coconut water,"Electrolytes, Potassium",Snack,Digestion,Vegetarian,Rural
+NUT0364,gastro problem ki coconut water relief isthunda,Telugu- English,General Nutrition,Coconut water,"Electrolytes, Potassium",Snack,Digestion,Vegetarian,Urban
+NUT0365,BP control avvadaniki daily coconut water thagala,Telugu- English,Healthy diet,Coconut water,"Electrolytes, Potassium",Snack,BP control,Vegetarian,Rural
+NUT0366,skin glow kosam coconut water daily theskovacha,Telugu- English,Healthy diet,Coconut water,"Electrolytes, Potassium",Snack,Skin health,Vegetarian,Urban
+NUT0367,morning empty stomach lo lemon honey water thagithe weight loss avthunda,Telugu- English,Weight Loss,Lemon honey water,Vitamin C,Breakfast,Weight Loss,Vegetarian,Rural
+NUT0368,daily roju lemon honey water teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Lemon honey water,Vitamin C,Breakfast,General health,Vegetarian,Urban
+NUT0369,lemon honey water acidity unna vallu thagocha,Telugu- English,General Nutrition,Lemon honey water,Vitamin C,Breakfast,Digestion,Vegetarian,Urban
+NUT0370,gastro problem ki lemon honey water relief isthunda,Telugu- English,General Nutrition,Lemon honey water,Vitamin C,Breakfast,Digestion,Vegetarian,Rural
+NUT0371,BP control avvadaniki daily lemon honey water thagala,Telugu- English,Healthy diet,Lemon honey water,Vitamin C,Breakfast,BP control,Vegetarian,Rural
+NUT0372,skin glow kosam lemon honey water daily theskovacha,Telugu- English,Healthy diet,Lemon honey water,Vitamin C,Breakfast,Skin health,Vegetarian,Urban
+NUT0373,morning empty stomach lo green tea thagithe weight loss avthunda,Telugu- English,Weight Loss,Green tea,Antioxidants,Snack,Weight Loss,Vegetarian,Rural
+NUT0374,daily roju green tea teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Green tea,Antioxidants,Snack,General health,Vegetarian,Rural
+NUT0375,green tea acidity unna vallu thagocha,Telugu- English,General Nutrition,Green tea,Antioxidants,Snack,Digestion,Vegetarian,Urban
+NUT0376,gastro problem ki green tea relief isthunda,Telugu- English,General Nutrition,Green tea,Antioxidants,Snack,Digestion,Vegetarian,Rural
+NUT0377,BP control avvadaniki daily green tea thagala,Telugu- English,Healthy diet,Green tea,Antioxidants,Snack,BP control,Vegetarian,Rural
+NUT0378,skin glow kosam green tea daily theskovacha,Telugu- English,Healthy diet,Green tea,Antioxidants,Snack,Skin health,Vegetarian,Rural
+NUT0379,morning empty stomach lo black coffee thagithe weight loss avthunda,Telugu- English,Weight Loss,Black coffee,Caffeine,Breakfast,Weight Loss,Vegetarian,Rural
+NUT0380,daily roju black coffee teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Black coffee,Caffeine,Breakfast,General health,Vegetarian,Rural
+NUT0381,black coffee acidity unna vallu thagocha,Telugu- English,General Nutrition,Black coffee,Caffeine,Breakfast,Digestion,Vegetarian,Rural
+NUT0382,gastro problem ki black coffee relief isthunda,Telugu- English,General Nutrition,Black coffee,Caffeine,Breakfast,Digestion,Vegetarian,Urban
+NUT0383,BP control avvadaniki daily black coffee thagala,Telugu- English,Healthy diet,Black coffee,Caffeine,Breakfast,BP control,Vegetarian,Urban
+NUT0384,skin glow kosam black coffee daily theskovacha,Telugu- English,Healthy diet,Black coffee,Caffeine,Breakfast,Skin health,Vegetarian,Rural
+NUT0385,morning empty stomach lo buttermilk (majjiga) thagithe weight loss avthunda,Telugu- English,Weight Loss,Buttermilk,Probiotics,Lunch,Weight Loss,Vegetarian,Rural
+NUT0386,daily roju buttermilk (majjiga) teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Buttermilk,Probiotics,Lunch,General health,Vegetarian,Urban
+NUT0387,buttermilk (majjiga) acidity unna vallu thagocha,Telugu- English,General Nutrition,Buttermilk,Probiotics,Lunch,Digestion,Vegetarian,Rural
+NUT0388,gastro problem ki buttermilk (majjiga) relief isthunda,Telugu- English,General Nutrition,Buttermilk,Probiotics,Lunch,Digestion,Vegetarian,Rural
+NUT0389,BP control avvadaniki daily buttermilk (majjiga) thagala,Telugu- English,Healthy diet,Buttermilk,Probiotics,Lunch,BP control,Vegetarian,Urban
+NUT0390,skin glow kosam buttermilk (majjiga) daily theskovacha,Telugu- English,Healthy diet,Buttermilk,Probiotics,Lunch,Skin health,Vegetarian,Rural
+NUT0391,morning empty stomach lo jeera water thagithe weight loss avthunda,Telugu- English,Weight Loss,Jeera water,Digestive enzymes,Breakfast,Weight Loss,Vegetarian,Rural
+NUT0392,daily roju jeera water teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Jeera water,Digestive enzymes,Breakfast,General health,Vegetarian,Urban
+NUT0393,jeera water acidity unna vallu thagocha,Telugu- English,General Nutrition,Jeera water,Digestive enzymes,Breakfast,Digestion,Vegetarian,Rural
+NUT0394,gastro problem ki jeera water relief isthunda,Telugu- English,General Nutrition,Jeera water,Digestive enzymes,Breakfast,Digestion,Vegetarian,Rural
+NUT0395,BP control avvadaniki daily jeera water thagala,Telugu- English,Healthy diet,Jeera water,Digestive enzymes,Breakfast,BP control,Vegetarian,Rural
+NUT0396,skin glow kosam jeera water daily theskovacha,Telugu- English,Healthy diet,Jeera water,Digestive enzymes,Breakfast,Skin health,Vegetarian,Rural
+NUT0397,morning empty stomach lo amla juice thagithe weight loss avthunda,Telugu- English,Weight Loss,Amla juice,Vitamin C,Breakfast,Weight Loss,Vegetarian,Rural
+NUT0398,daily roju amla juice teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Amla juice,Vitamin C,Breakfast,General health,Vegetarian,Urban
+NUT0399,amla juice acidity unna vallu thagocha,Telugu- English,General Nutrition,Amla juice,Vitamin C,Breakfast,Digestion,Vegetarian,Rural
+NUT0400,gastro problem ki amla juice relief isthunda,Telugu- English,General Nutrition,Amla juice,Vitamin C,Breakfast,Digestion,Vegetarian,Urban
+NUT0401,BP control avvadaniki daily amla juice thagala,Telugu- English,Healthy diet,Amla juice,Vitamin C,Breakfast,BP control,Vegetarian,Urban
+NUT0402,skin glow kosam amla juice daily theskovacha,Telugu- English,Healthy diet,Amla juice,Vitamin C,Breakfast,Skin health,Vegetarian,Rural
+NUT0403,morning empty stomach lo aloe vera juice thagithe weight loss avthunda,Telugu- English,Weight Loss,Aloe vera juice,Antioxidants,Breakfast,Weight Loss,Vegetarian,Rural
+NUT0404,daily roju aloe vera juice teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Aloe vera juice,Antioxidants,Breakfast,General health,Vegetarian,Urban
+NUT0405,aloe vera juice acidity unna vallu thagocha,Telugu- English,General Nutrition,Aloe vera juice,Antioxidants,Breakfast,Digestion,Vegetarian,Urban
+NUT0406,gastro problem ki aloe vera juice relief isthunda,Telugu- English,General Nutrition,Aloe vera juice,Antioxidants,Breakfast,Digestion,Vegetarian,Rural
+NUT0407,BP control avvadaniki daily aloe vera juice thagala,Telugu- English,Healthy diet,Aloe vera juice,Antioxidants,Breakfast,BP control,Vegetarian,Urban
+NUT0408,skin glow kosam aloe vera juice daily theskovacha,Telugu- English,Healthy diet,Aloe vera juice,Antioxidants,Breakfast,Skin health,Vegetarian,Urban
+NUT0409,morning empty stomach lo chia seeds water thagithe weight loss avthunda,Telugu- English,Weight Loss,Chia seeds,"Omega-3, Fiber",Breakfast,Weight Loss,Vegetarian,Urban
+NUT0410,daily roju chia seeds water teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Chia seeds,"Omega-3, Fiber",Breakfast,General health,Vegetarian,Urban
+NUT0411,chia seeds water acidity unna vallu thagocha,Telugu- English,General Nutrition,Chia seeds,"Omega-3, Fiber",Breakfast,Digestion,Vegetarian,Urban
+NUT0412,gastro problem ki chia seeds water relief isthunda,Telugu- English,General Nutrition,Chia seeds,"Omega-3, Fiber",Breakfast,Digestion,Vegetarian,Urban
+NUT0413,BP control avvadaniki daily chia seeds water thagala,Telugu- English,Healthy diet,Chia seeds,"Omega-3, Fiber",Breakfast,BP control,Vegetarian,Rural
+NUT0414,skin glow kosam chia seeds water daily theskovacha,Telugu- English,Healthy diet,Chia seeds,"Omega-3, Fiber",Breakfast,Skin health,Vegetarian,Urban
+NUT0415,morning empty stomach lo sabja water thagithe weight loss avthunda,Telugu- English,Weight Loss,Sabja seeds,Fiber,Snack,Weight Loss,Vegetarian,Rural
+NUT0416,daily roju sabja water teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Sabja seeds,Fiber,Snack,General health,Vegetarian,Rural
+NUT0417,sabja water acidity unna vallu thagocha,Telugu- English,General Nutrition,Sabja seeds,Fiber,Snack,Digestion,Vegetarian,Urban
+NUT0418,gastro problem ki sabja water relief isthunda,Telugu- English,General Nutrition,Sabja seeds,Fiber,Snack,Digestion,Vegetarian,Rural
+NUT0419,BP control avvadaniki daily sabja water thagala,Telugu- English,Healthy diet,Sabja seeds,Fiber,Snack,BP control,Vegetarian,Rural
+NUT0420,skin glow kosam sabja water daily theskovacha,Telugu- English,Healthy diet,Sabja seeds,Fiber,Snack,Skin health,Vegetarian,Rural
+NUT0421,morning empty stomach lo beetroot juice thagithe weight loss avthunda,Telugu- English,Weight Loss,Beetroot juice,"Iron, Nitrates",Snack,Weight Loss,Vegetarian,Urban
+NUT0422,daily roju beetroot juice teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Beetroot juice,"Iron, Nitrates",Snack,General health,Vegetarian,Urban
+NUT0423,beetroot juice acidity unna vallu thagocha,Telugu- English,General Nutrition,Beetroot juice,"Iron, Nitrates",Snack,Digestion,Vegetarian,Urban
+NUT0424,gastro problem ki beetroot juice relief isthunda,Telugu- English,General Nutrition,Beetroot juice,"Iron, Nitrates",Snack,Digestion,Vegetarian,Urban
+NUT0425,BP control avvadaniki daily beetroot juice thagala,Telugu- English,Healthy diet,Beetroot juice,"Iron, Nitrates",Snack,BP control,Vegetarian,Rural
+NUT0426,skin glow kosam beetroot juice daily theskovacha,Telugu- English,Healthy diet,Beetroot juice,"Iron, Nitrates",Snack,Skin health,Vegetarian,Urban
+NUT0427,morning empty stomach lo karela / bitter gourd juice thagithe weight loss avthunda,Telugu- English,Weight Loss,Bitter gourd juice,Antioxidants,Breakfast,Weight Loss,Vegetarian,Urban
+NUT0428,daily roju karela / bitter gourd juice teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Bitter gourd juice,Antioxidants,Breakfast,General health,Vegetarian,Rural
+NUT0429,karela / bitter gourd juice acidity unna vallu thagocha,Telugu- English,General Nutrition,Bitter gourd juice,Antioxidants,Breakfast,Digestion,Vegetarian,Urban
+NUT0430,gastro problem ki karela / bitter gourd juice relief isthunda,Telugu- English,General Nutrition,Bitter gourd juice,Antioxidants,Breakfast,Digestion,Vegetarian,Urban
+NUT0431,BP control avvadaniki daily karela / bitter gourd juice thagala,Telugu- English,Healthy diet,Bitter gourd juice,Antioxidants,Breakfast,BP control,Vegetarian,Urban
+NUT0432,skin glow kosam karela / bitter gourd juice daily theskovacha,Telugu- English,Healthy diet,Bitter gourd juice,Antioxidants,Breakfast,Skin health,Vegetarian,Rural
+NUT0433,morning empty stomach lo warm turmeric milk thagithe weight loss avthunda,Telugu- English,Weight Loss,Turmeric milk,"Curcumin, Calcium",Dinner,Weight Loss,Vegetarian,Urban
+NUT0434,daily roju warm turmeric milk teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Turmeric milk,"Curcumin, Calcium",Dinner,General health,Vegetarian,Rural
+NUT0435,warm turmeric milk acidity unna vallu thagocha,Telugu- English,General Nutrition,Turmeric milk,"Curcumin, Calcium",Dinner,Digestion,Vegetarian,Rural
+NUT0436,gastro problem ki warm turmeric milk relief isthunda,Telugu- English,General Nutrition,Turmeric milk,"Curcumin, Calcium",Dinner,Digestion,Vegetarian,Rural
+NUT0437,BP control avvadaniki daily warm turmeric milk thagala,Telugu- English,Healthy diet,Turmeric milk,"Curcumin, Calcium",Dinner,BP control,Vegetarian,Rural
+NUT0438,skin glow kosam warm turmeric milk daily theskovacha,Telugu- English,Healthy diet,Turmeric milk,"Curcumin, Calcium",Dinner,Skin health,Vegetarian,Rural
+NUT0439,morning empty stomach lo methi water thagithe weight loss avthunda,Telugu- English,Weight Loss,Methi water,Fiber,Breakfast,Weight Loss,Vegetarian,Urban
+NUT0440,daily roju methi water teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Methi water,Fiber,Breakfast,General health,Vegetarian,Rural
+NUT0441,methi water acidity unna vallu thagocha,Telugu- English,General Nutrition,Methi water,Fiber,Breakfast,Digestion,Vegetarian,Rural
+NUT0442,gastro problem ki methi water relief isthunda,Telugu- English,General Nutrition,Methi water,Fiber,Breakfast,Digestion,Vegetarian,Rural
+NUT0443,BP control avvadaniki daily methi water thagala,Telugu- English,Healthy diet,Methi water,Fiber,Breakfast,BP control,Vegetarian,Urban
+NUT0444,skin glow kosam methi water daily theskovacha,Telugu- English,Healthy diet,Methi water,Fiber,Breakfast,Skin health,Vegetarian,Rural
+NUT0445,morning empty stomach lo barley water thagithe weight loss avthunda,Telugu- English,Weight Loss,Barley water,Fiber,Lunch,Weight Loss,Vegetarian,Rural
+NUT0446,daily roju barley water teeskovadam valla em benefits untayi,Telugu- English,Healthy diet,Barley water,Fiber,Lunch,General health,Vegetarian,Urban
+NUT0447,barley water acidity unna vallu thagocha,Telugu- English,General Nutrition,Barley water,Fiber,Lunch,Digestion,Vegetarian,Rural
+NUT0448,gastro problem ki barley water relief isthunda,Telugu- English,General Nutrition,Barley water,Fiber,Lunch,Digestion,Vegetarian,Rural
+NUT0449,BP control avvadaniki daily barley water thagala,Telugu- English,Healthy diet,Barley water,Fiber,Lunch,BP control,Vegetarian,Urban
+NUT0450,skin glow kosam barley water daily theskovacha,Telugu- English,Healthy diet,Barley water,Fiber,Lunch,Skin health,Vegetarian,Rural
+NUT0451,daily soak chesi badam / almonds thinte benefits enti,Telugu- English,Food nutrition,Almonds,"Healthy fats, Vitamin E",Snack,General health,Vegetarian,Urban
+NUT0452,sugar patients badam / almonds thinte sugar spikes avthaya,Telugu- English,Diabetes management,Almonds,"Healthy fats, Vitamin E",Snack,Blood sugar control,Vegetarian,Rural
+NUT0453,weight gain kosam daily enni badam / almonds thinali,Telugu- English,Weight gain,Almonds,"Healthy fats, Vitamin E",Snack,weight gain,Vegetarian,Rural
+NUT0454,night padukune mundhu badam / almonds thinocha,Telugu- English,Food nutrition,Almonds,"Healthy fats, Vitamin E",Snack,General health,Vegetarian,Rural
+NUT0455,gym workout tarvatha badam / almonds best source aa,Telugu- English,Fitness Nutrition,Almonds,"Healthy fats, Vitamin E",Snack,Fitness,Vegetarian,Urban
+NUT0456,kids ki brain power improve avvadaniki badam / almonds thinipinchala,Telugu- English,child nutrition,Almonds,"Healthy fats, Vitamin E",Snack,Child nutrition,Vegetarian,Urban
+NUT0457,daily soak chesi walnuts thinte benefits enti,Telugu- English,Food nutrition,Walnuts,Omega-3,Snack,General health,Vegetarian,Urban
+NUT0458,sugar patients walnuts thinte sugar spikes avthaya,Telugu- English,Diabetes management,Walnuts,Omega-3,Snack,Blood sugar control,Vegetarian,Urban
+NUT0459,weight gain kosam daily enni walnuts thinali,Telugu- English,Weight gain,Walnuts,Omega-3,Snack,weight gain,Vegetarian,Rural
+NUT0460,night padukune mundhu walnuts thinocha,Telugu- English,Food nutrition,Walnuts,Omega-3,Snack,General health,Vegetarian,Urban
+NUT0461,gym workout tarvatha walnuts best source aa,Telugu- English,Fitness Nutrition,Walnuts,Omega-3,Snack,Fitness,Vegetarian,Urban
+NUT0462,kids ki brain power improve avvadaniki walnuts thinipinchala,Telugu- English,child nutrition,Walnuts,Omega-3,Snack,Child nutrition,Vegetarian,Urban
+NUT0463,daily soak chesi anjeer / figs thinte benefits enti,Telugu- English,Food nutrition,Figs,"Iron, Fiber",Breakfast,General health,Vegetarian,Rural
+NUT0464,sugar patients anjeer / figs thinte sugar spikes avthaya,Telugu- English,Diabetes management,Figs,"Iron, Fiber",Breakfast,Blood sugar control,Vegetarian,Rural
+NUT0465,weight gain kosam daily enni anjeer / figs thinali,Telugu- English,Weight gain,Figs,"Iron, Fiber",Breakfast,weight gain,Vegetarian,Rural
+NUT0466,night padukune mundhu anjeer / figs thinocha,Telugu- English,Food nutrition,Figs,"Iron, Fiber",Breakfast,General health,Vegetarian,Rural
+NUT0467,gym workout tarvatha anjeer / figs best source aa,Telugu- English,Fitness Nutrition,Figs,"Iron, Fiber",Breakfast,Fitness,Vegetarian,Rural
+NUT0468,kids ki brain power improve avvadaniki anjeer / figs thinipinchala,Telugu- English,child nutrition,Figs,"Iron, Fiber",Breakfast,Child nutrition,Vegetarian,Urban
+NUT0469,daily soak chesi dates / khajur thinte benefits enti,Telugu- English,Food nutrition,Dates,Iron,Snack,General health,Vegetarian,Urban
+NUT0470,sugar patients dates / khajur thinte sugar spikes avthaya,Telugu- English,Diabetes management,Dates,Iron,Snack,Blood sugar control,Vegetarian,Rural
+NUT0471,weight gain kosam daily enni dates / khajur thinali,Telugu- English,Weight gain,Dates,Iron,Snack,weight gain,Vegetarian,Rural
+NUT0472,night padukune mundhu dates / khajur thinocha,Telugu- English,Food nutrition,Dates,Iron,Snack,General health,Vegetarian,Urban
+NUT0473,gym workout tarvatha dates / khajur best source aa,Telugu- English,Fitness Nutrition,Dates,Iron,Snack,Fitness,Vegetarian,Rural
+NUT0474,kids ki brain power improve avvadaniki dates / khajur thinipinchala,Telugu- English,child nutrition,Dates,Iron,Snack,Child nutrition,Vegetarian,Rural
+NUT0475,daily soak chesi papaya thinte benefits enti,Telugu- English,Food nutrition,Papaya,Digestive enzymes,Breakfast,General health,Vegetarian,Urban
+NUT0476,sugar patients papaya thinte sugar spikes avthaya,Telugu- English,Diabetes management,Papaya,Digestive enzymes,Breakfast,Blood sugar control,Vegetarian,Rural
+NUT0477,weight gain kosam daily enni papaya thinali,Telugu- English,Weight gain,Papaya,Digestive enzymes,Breakfast,weight gain,Vegetarian,Rural
+NUT0478,night padukune mundhu papaya thinocha,Telugu- English,Food nutrition,Papaya,Digestive enzymes,Breakfast,General health,Vegetarian,Rural
+NUT0479,gym workout tarvatha papaya best source aa,Telugu- English,Fitness Nutrition,Papaya,Digestive enzymes,Breakfast,Fitness,Vegetarian,Rural
+NUT0480,kids ki brain power improve avvadaniki papaya thinipinchala,Telugu- English,child nutrition,Papaya,Digestive enzymes,Breakfast,Child nutrition,Vegetarian,Urban
+NUT0481,daily soak chesi banana thinte benefits enti,Telugu- English,Food nutrition,Banana,"Potassium, Carbs",Snack,General health,Vegetarian,Rural
+NUT0482,sugar patients banana thinte sugar spikes avthaya,Telugu- English,Diabetes management,Banana,"Potassium, Carbs",Snack,Blood sugar control,Vegetarian,Urban
+NUT0483,weight gain kosam daily enni banana thinali,Telugu- English,Weight gain,Banana,"Potassium, Carbs",Snack,weight gain,Vegetarian,Rural
+NUT0484,night padukune mundhu banana thinocha,Telugu- English,Food nutrition,Banana,"Potassium, Carbs",Snack,General health,Vegetarian,Rural
+NUT0485,gym workout tarvatha banana best source aa,Telugu- English,Fitness Nutrition,Banana,"Potassium, Carbs",Snack,Fitness,Vegetarian,Rural
+NUT0486,kids ki brain power improve avvadaniki banana thinipinchala,Telugu- English,child nutrition,Banana,"Potassium, Carbs",Snack,Child nutrition,Vegetarian,Urban
+NUT0487,daily soak chesi apple thinte benefits enti,Telugu- English,Food nutrition,Apple,"Fiber, Antioxidants",Snack,General health,Vegetarian,Rural
+NUT0488,sugar patients apple thinte sugar spikes avthaya,Telugu- English,Diabetes management,Apple,"Fiber, Antioxidants",Snack,Blood sugar control,Vegetarian,Rural
+NUT0489,weight gain kosam daily enni apple thinali,Telugu- English,Weight gain,Apple,"Fiber, Antioxidants",Snack,weight gain,Vegetarian,Rural
+NUT0490,night padukune mundhu apple thinocha,Telugu- English,Food nutrition,Apple,"Fiber, Antioxidants",Snack,General health,Vegetarian,Urban
+NUT0491,gym workout tarvatha apple best source aa,Telugu- English,Fitness Nutrition,Apple,"Fiber, Antioxidants",Snack,Fitness,Vegetarian,Rural
+NUT0492,kids ki brain power improve avvadaniki apple thinipinchala,Telugu- English,child nutrition,Apple,"Fiber, Antioxidants",Snack,Child nutrition,Vegetarian,Urban
+NUT0493,daily soak chesi pomegranate thinte benefits enti,Telugu- English,Food nutrition,Pomegranate,"Iron, Antioxidants",Snack,General health,Vegetarian,Urban
+NUT0494,sugar patients pomegranate thinte sugar spikes avthaya,Telugu- English,Diabetes management,Pomegranate,"Iron, Antioxidants",Snack,Blood sugar control,Vegetarian,Rural
+NUT0495,weight gain kosam daily enni pomegranate thinali,Telugu- English,Weight gain,Pomegranate,"Iron, Antioxidants",Snack,weight gain,Vegetarian,Urban
+NUT0496,night padukune mundhu pomegranate thinocha,Telugu- English,Food nutrition,Pomegranate,"Iron, Antioxidants",Snack,General health,Vegetarian,Urban
+NUT0497,gym workout tarvatha pomegranate best source aa,Telugu- English,Fitness Nutrition,Pomegranate,"Iron, Antioxidants",Snack,Fitness,Vegetarian,Rural
+NUT0498,kids ki brain power improve avvadaniki pomegranate thinipinchala,Telugu- English,child nutrition,Pomegranate,"Iron, Antioxidants",Snack,Child nutrition,Vegetarian,Urban
+NUT0499,daily soak chesi guava / jamakaya thinte benefits enti,Telugu- English,Food nutrition,Guava,"Vitamin C, Fiber",Snack,General health,Vegetarian,Rural
+NUT0500,sugar patients guava / jamakaya thinte sugar spikes avthaya,Telugu- English,Diabetes management,Guava,"Vitamin C, Fiber",Snack,Blood sugar control,Vegetarian,Urban

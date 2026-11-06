@@ -1,0 +1,9 @@
+{
+  "python_compile_all": true,
+  "model_artifact_exists": true,
+  "vectorizer_exists": true,
+  "classifier_exists": true,
+  "dataset_exists": true,
+  "evaluation_exists": true,
+  "confusion_matrix_exists": true
+}

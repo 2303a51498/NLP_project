@@ -1,0 +1,37 @@
+PRAGMA foreign_keys = ON;
+CREATE TABLE IF NOT EXISTS users (
+ id INTEGER PRIMARY KEY AUTOINCREMENT,
+ name TEXT NOT NULL,
+ email TEXT NOT NULL UNIQUE,
+ password_hash TEXT NOT NULL,
+ created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+CREATE TABLE IF NOT EXISTS user_profiles (
+ id INTEGER PRIMARY KEY AUTOINCREMENT,
+ user_id INTEGER NOT NULL UNIQUE REFERENCES users(id) ON DELETE CASCADE,
+ age INTEGER, gender TEXT, weight REAL, height REAL,
+ diet_preference TEXT, health_goal TEXT, activity_level TEXT,
+ allergies TEXT DEFAULT ''
+);
+CREATE TABLE IF NOT EXISTS nutrition_queries (
+ id INTEGER PRIMARY KEY AUTOINCREMENT,
+ user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+ query_text TEXT NOT NULL,
+ detected_language TEXT,
+ created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+CREATE TABLE IF NOT EXISTS classification_results (
+ id INTEGER PRIMARY KEY AUTOINCREMENT,
+ query_id INTEGER NOT NULL UNIQUE REFERENCES nutrition_queries(id) ON DELETE CASCADE,
+ predicted_intent TEXT NOT NULL,
+ confidence REAL NOT NULL,
+ food_item TEXT,
+ top_predictions TEXT
+);
+CREATE TABLE IF NOT EXISTS recommendation_history (
+ id INTEGER PRIMARY KEY AUTOINCREMENT,
+ query_id INTEGER NOT NULL REFERENCES nutrition_queries(id) ON DELETE CASCADE,
+ user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+ recommendations_json TEXT NOT NULL,
+ created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+);

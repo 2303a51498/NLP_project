@@ -1,0 +1,29 @@
+{
+  "dataset_file": "data/NLP_dataset_500.xlsx",
+  "original_shape": [
+    500,
+    10
+  ],
+  "training_rows_after_cleaning": 500,
+  "train_rows": 400,
+  "test_rows": 100,
+  "intent_distribution": {
+    "Food nutrition": 127,
+    "Weight Loss": 77,
+    "General Nutrition": 68,
+    "Healthy diet": 65,
+    "Diabetes management": 41,
+    "Protein": 36,
+    "Fitness Nutrition": 26,
+    "Weight management": 20,
+    "child nutrition": 20,
+    "Meal Planning": 12,
+    "Weight gain": 8
+  },
+  "language_distribution": {
+    "Telugu- English": 500
+  },
+  "accuracy": 1.0,
+  "evaluation_note": "Held-out stratified 20% split; results are dataset-specific and not evidence of clinical validity.",
+  "classification_report": "                     precision    recall  f1-score   support\n\nDiabetes management       1.00      1.00      1.00         8\n  Fitness Nutrition       1.00      1.00      1.00         5\n     Food nutrition       1.00      1.00      1.00        26\n  General Nutrition       1.00      1.00      1.00        14\n       Healthy diet       1.00      1.00      1.00        13\n      Meal Planning       1.00      1.00      1.00         2\n            Protein       1.00      1.00      1.00         7\n        Weight Loss       1.00      1.00      1.00        15\n        Weight gain       1.00      1.00      1.00         2\n  Weight management       1.00      1.00      1.00         4\n    child nutrition       1.00      1.00      1.00         4\n\n           accuracy                           1.00       100\n          macro avg       1.00      1.00      1.00       100\n       weighted avg       1.00      1.00      1.00       100\n"
+}
