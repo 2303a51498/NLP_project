@@ -16,10 +16,24 @@ init_db(app)
 def login_required(fn):
     @wraps(fn)
     def wrapper(*args, **kwargs):
-        if "user_id" not in session:
+        uid = session.get("user_id")
+
+        if uid is None:
             flash("Please log in to continue.", "warning")
             return redirect(url_for("login"))
+
+        # Verify that user still exists in SQLite
+        user = get_db().execute(
+            "SELECT id FROM users WHERE id = ?", (uid,)
+        ).fetchone()
+
+        if user is None:
+            session.clear()
+            flash("Session expired. Please login again.", "warning")
+            return redirect(url_for("login"))
+
         return fn(*args, **kwargs)
+
     return wrapper
 
 def current_profile():
@@ -136,10 +150,17 @@ def classify():
                        (qid,session["user_id"],json.dumps(recs)))
             db.commit()
             return render_template("results.html", query=query, result=result, language=language, recs=recs)
-        except Exception as e:
-            app.logger.exception("Classification failed")
-            flash("The classifier is unavailable. Train the model first using the README instructions.", "danger")
-            return redirect(url_for("classify"))
+        except sqlite3.IntegrityError:
+            get_db().rollback()
+            app.logger.exception("Database integrity error")
+            flash("Database session mismatch. Please login again.", "danger")
+    return redirect(url_for("login"))
+
+except Exception as e:
+    get_db().rollback()
+    app.logger.exception("Classification failed")
+    flash(f"Classification error: {str(e)}", "danger")
+    return redirect(url_for("classify"))
     return render_template("index.html", show_query=True)
 
 @app.route("/history")
